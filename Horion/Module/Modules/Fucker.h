@@ -13,8 +13,8 @@ private:
 	bool barrels = false;
 
 public:
-	Fucker();
-	~Fucker();
+	Free();
+	~Free();
 
 	// Inherited via IModule
 	virtual const char* getModuleName() override;
